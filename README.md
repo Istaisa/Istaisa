@@ -1,7 +1,9 @@
 ### Hi there 👋 I'm Naomi!
 
 👩‍💻 I am a clinical bioinformatics trainee in the NHS
+
 👩‍🔬 I also have a PhD in rice developmental biology
+
 🧬 Basically I really love omics data
 
 You won't find my work projects here, but I'm moving back to GitHub for side projects. I mostly code in Python 🐍, but I'm always open to new things.
