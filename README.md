@@ -16,3 +16,7 @@ I do not know how to make a mobile app and neither does she, so we make the perf
 
 ---
 💬 Pronouns: she/her
+
+🐦 You can find me on [Twitter](https://twitter.com/naomicox_12)
+
+🎨 My awesome avatar is by the very talented [Ethan Kocak](https://twitter.com/Blackmudpuppy)
